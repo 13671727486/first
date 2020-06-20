@@ -1,2 +1,3 @@
-# first
-I try my best to build a new repository
+# first 
+I try my best to build a new repository!
+you usually say...
